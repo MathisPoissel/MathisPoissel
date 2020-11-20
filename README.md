@@ -7,7 +7,7 @@
  ##  <p align="center"> Actuellement en première année de Bachelor digital à Digital Campus Nantes !  </p>
 
 Suivez moi !
-[<img width="2.5%" src="flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.instagram.com/mathispsl_creations/?hl=fr)
+[<img width="2.5%" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://www.instagram.com/mathispsl_creations/?hl=fr)
 
 
 <!--
