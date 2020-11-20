@@ -1,7 +1,7 @@
-# Bonjour tout le monde 👋
-# Actuellement en première année de Bachelor digital à Digital Campus Nantes !
+# Bonjour tout le monde 👋 ## Bienvenue sur mon GitHub !
+## Actuellement en première année de Bachelor digital à Digital Campus Nantes !
 
-## Bienvenue sur mon GitHub !
+
 
 <!--
 **MathisPoissel/MathisPoissel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
