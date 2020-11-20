@@ -1,4 +1,5 @@
 # Bonjour tout le monde 👋
+# Actuellement en première année de Bachelor digital à Digital Campus Nantes !
 
 ## Bienvenue sur mon GitHub !
 
