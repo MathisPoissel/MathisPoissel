@@ -7,10 +7,10 @@
  ##  <p align="center"> Actuellement en première année de Bachelor digital à Digital Campus Nantes !  </p>
 
 ## Suivez moi !
-
+<center>
 [<img width="5%" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://www.instagram.com/mathispsl_creations/?hl=fr)
 [<img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" />](https://www.linkedin.com/in/mathis-poissel-0b84911b9/)
-
+</Center>
 
 <!--
 **MathisPoissel/MathisPoissel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
