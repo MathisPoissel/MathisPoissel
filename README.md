@@ -1,6 +1,6 @@
 # Bonjour tout le monde 👋
 
-## Bienvenu sur mon GitHub !
+## Bienvenue sur mon GitHub !
 
 <!--
 **MathisPoissel/MathisPoissel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
