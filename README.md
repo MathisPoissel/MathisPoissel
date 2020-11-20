@@ -1,6 +1,6 @@
 # 👋 Bonjour tout le monde 👋 --- Bienvenue sur mon GitHub ! 
 ## Actuellement en première année de Bachelor digital à Digital Campus Nantes !
-![alt tag](C:\Users\mathi\Google Drive\Logo2_2)
+![alt tag](https://www.instagram.com/p/CHyWEqBlZsa/)
 
 
 <!--
