@@ -1,7 +1,7 @@
 # 👋 Bonjour tout le monde 👋 --- Bienvenue sur mon GitHub ! 
-<div style="text-align:center">
-<img width="20%" src="https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/126359493_748011609132193_1596586259705526167_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=LafsmM1jBiEAX9UCELv&tp=1&oh=a3ecbb6ce6dd737bc82486967600a90a&oe=5FDFF0D1">
-</div>
+<p align="center">
+  <img width="20%" src="https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/126359493_748011609132193_1596586259705526167_n.jpg?_nc_ht=scontent-cdt1-    1.cdninstagram.com&_nc_cat=101&_nc_ohc=LafsmM1jBiEAX9UCELv&tp=1&oh=a3ecbb6ce6dd737bc82486967600a90a&oe=5FDFF0D1">
+</p>
 ## Actuellement en première année de Bachelor digital à Digital Campus Nantes !
 
 
