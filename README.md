@@ -6,8 +6,10 @@
 
  ##  <p align="center"> Actuellement en première année de Bachelor digital à Digital Campus Nantes !  </p>
 
-Suivez moi !
+## Suivez moi !
+
 [<img width="2.5%" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://www.instagram.com/mathispsl_creations/?hl=fr)
+[<img width="2.5%" src="https://https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" />](https://www.linkedin.com/in/mathis-poissel-0b84911b9/)
 
 
 <!--
