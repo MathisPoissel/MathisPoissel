@@ -1,6 +1,6 @@
 # 👋 Bonjour tout le monde 👋 --- Bienvenue sur mon GitHub ! 
 ## Actuellement en première année de Bachelor digital à Digital Campus Nantes !
-![alt tag](https://lh3.googleusercontent.com/proxy/T2D6fprPhgZ5qdnZGwnxSvt7Ei-x1hJZ7Qw4JDRf3k-Gl-lGLj6io_dE71gXkn8u4lkw_1iYy9OhcyNAgVSzCOmXocej99ceu7TUeJzL7D32BbLqc4GlDNyugUgB_WtZ21A05arwUy2YNhEAN-uIZlnscuLiVDLcdLc)
+![alt tag](https://drive.google.com/file/d/1VTnKi2lbo_WABlUCpa6YJHk1dNgapmHW/view?usp=sharing)
 
 
 <!--
