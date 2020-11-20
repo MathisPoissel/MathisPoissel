@@ -1,9 +1,3 @@
-<style type="text/css"> 
-a:link 
-{ 
- text-decoration:none; 
-} 
-</style>
 
  # <p align="center"> 👋 Bonjour tout le monde 👋 --- Bienvenue sur mon GitHub !  </p>
 
