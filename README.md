@@ -1,4 +1,9 @@
-
+<style type="text/css"> 
+a:link 
+{ 
+ text-decoration:none; 
+} 
+</style>
 
  # <p align="center"> 👋 Bonjour tout le monde 👋 --- Bienvenue sur mon GitHub !  </p>
 
@@ -11,7 +16,7 @@
 [<img width="5%" src="https://image.flaticon.com/icons/png/512/174/174855.png" />](https://www.instagram.com/mathispsl_creations/?hl=fr)
 [<img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" />](https://www.linkedin.com/in/mathis-poissel-0b84911b9/)
 
-<STYLE>A {text-decoration: none;} </STYLE>
+
 <!--
 **MathisPoissel/MathisPoissel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
